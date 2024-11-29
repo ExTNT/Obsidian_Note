@@ -1,1 +1,6 @@
-{}
+{
+  "textFontFamily": "Noto Sans Mono CJK SC",
+  "monospaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "Microsoft YaHei UI",
+  "baseFontSize": 20
+}
