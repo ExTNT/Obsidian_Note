@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "马原.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "马原"
