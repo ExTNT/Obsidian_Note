@@ -15,7 +15,7 @@
               "state": {
                 "file": "马原.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "马原"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#习近平新时代中国特色社会主义思想意义",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -156,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,9 +174,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caa25a216348891f",
+  "active": "8c94af8ef718066b",
   "lastOpenFiles": [
-    "README.md",
-    "马原.md"
+    "马原.md",
+    "README.md"
   ]
 }
