@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#感性到理性的基本条件",
+                "query": "tag:#商品经济的发展",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caa25a216348891f",
+  "active": "482a36a3000f6f25",
   "lastOpenFiles": [
     "马原.md",
     "README.md"
