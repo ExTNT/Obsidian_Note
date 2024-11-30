@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#习近平新时代中国特色社会主义思想意义",
+                "query": "tag:#感性到理性的基本条件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63cd615d28ce0095",
+  "active": "caa25a216348891f",
   "lastOpenFiles": [
     "马原.md",
     "README.md"
