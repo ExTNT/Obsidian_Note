@@ -73,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caa25a216348891f",
+  "active": "3acf942fe3099842",
   "lastOpenFiles": [
     "马原.md",
     "README.md"
