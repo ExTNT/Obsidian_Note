@@ -1,26 +1,25 @@
 ### 索引
 - [[通用学术英语II翻译]]
 
-# 目录
-- 
-	- [[#What is a summary? How is a summary different from a quotation?|What is a summary? How is a summary different from a quotation?]]
-	- [[#When summarising a source in an academic context, what conventions should we follow?|When summarising a source in an academic context, what conventions should we follow?]]
-	- [[#What are the criteria of evaluating a summary?|What are the criteria of evaluating a summary?]]
-	- [[#What are the five steps of writing a summary?|What are the five steps of writing a summary?]]
-	- [[#What steps are involved when we refer to others work in our own writing?|What steps are involved when we refer to others work in our own writing?]]
-	- [[#What is a synthesis? What are the components of a synthesis?|What is a synthesis? What are the components of a synthesis?]]
-	- [[#When synthesising different sources, how can we identify limitations of the studies?|When synthesising different sources, how can we identify limitations of the studies?]]
-	- [[#What is the typical order of logic in a synthesis?|What is the typical order of logic in a synthesis?]]
-	- [[#Seminal works are those of central importance to a research topic. What kind of studies can be regarded as seminal works? How can they be used?|Seminal works are those of central importance to a research topic. What kind of studies can be regarded as seminal works? How can they be used?]]
-	- [[#When reading literature, what can we do to find a niche for our own study about a research topic?|When reading literature, what can we do to find a niche for our own study about a research topic?]]
-	- [[#What steps can we follow to write a concession-rebuttal paragraph?|What steps can we follow to write a concession-rebuttal paragraph?]]
-	- [[#What approaches can we follow when conducting a literature review?|What approaches can we follow when conducting a literature review?]]
-	- [[#What steps can we follow to search and read literature for literature review?|What steps can we follow to search and read literature for literature review?]]
-	- [[#What steps can we follow to draft a literature review?|What steps can we follow to draft a literature review?]]
-	- [[#What is the difference between a summary and a synthesis?|What is the difference between a summary and a synthesis?]]
-	- [[#What is a report?|What is a report?]]
-	- [[#What are the differences between a report and an essay?|What are the differences between a report and an essay?]]
-	- [[#What sections does a report normally have?|What sections does a report normally have?]]
+## 目录
+- [[#What is a summary? How is a summary different from a quotation?|What is a summary? How is a summary different from a quotation?]]
+- [[#When summarising a source in an academic context, what conventions should we follow?|When summarising a source in an academic context, what conventions should we follow?]]
+- [[#What are the criteria of evaluating a summary?|What are the criteria of evaluating a summary?]]
+- [[#What are the five steps of writing a summary?|What are the five steps of writing a summary?]]
+- [[#What steps are involved when we refer to others work in our own writing?|What steps are involved when we refer to others work in our own writing?]]
+- [[#What is a synthesis? What are the components of a synthesis?|What is a synthesis? What are the components of a synthesis?]]
+- [[#When synthesising different sources, how can we identify limitations of the studies?|When synthesising different sources, how can we identify limitations of the studies?]]
+- [[#What is the typical order of logic in a synthesis?|What is the typical order of logic in a synthesis?]]
+- [[#Seminal works are those of central importance to a research topic. What kind of studies can be regarded as seminal works? How can they be used?|Seminal works are those of central importance to a research topic. What kind of studies can be regarded as seminal works? How can they be used?]]
+- [[#When reading literature, what can we do to find a niche for our own study about a research topic?|When reading literature, what can we do to find a niche for our own study about a research topic?]]
+- [[#What steps can we follow to write a concession-rebuttal paragraph?|What steps can we follow to write a concession-rebuttal paragraph?]]
+- [[#What approaches can we follow when conducting a literature review?|What approaches can we follow when conducting a literature review?]]
+- [[#What steps can we follow to search and read literature for literature review?|What steps can we follow to search and read literature for literature review?]]
+- [[#What steps can we follow to draft a literature review?|What steps can we follow to draft a literature review?]]
+- [[#What is the difference between a summary and a synthesis?|What is the difference between a summary and a synthesis?]]
+- [[#What is a report?|What is a report?]]
+- [[#What are the differences between a report and an essay?|What are the differences between a report and an essay?]]
+- [[#What sections does a report normally have?|What sections does a report normally have?]]
 
 
 ## What is a summary? How is a summary different from a quotation?
