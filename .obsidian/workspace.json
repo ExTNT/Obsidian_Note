@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "通用学术英语II"
             }
-          },
-          {
-            "id": "10dae0628f046148",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,11 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10dae0628f046148",
+  "active": "05b47c559c0ed544",
   "lastOpenFiles": [
+    "马原.md",
     "通用学术英语II.md",
     "通用学术英语II翻译.md",
-    "马原.md",
     "计组.md",
     "README.md"
   ]
