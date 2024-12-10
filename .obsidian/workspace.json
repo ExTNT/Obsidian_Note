@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "通用学术英语II.md",
+                "file": "通用学术英语II翻译.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通用学术英语II"
+              "title": "通用学术英语II翻译"
             }
           }
         ]
@@ -174,8 +174,8 @@
   },
   "active": "ddeb0fff6b574163",
   "lastOpenFiles": [
-    "马原.md",
     "通用学术英语II.md",
+    "马原.md",
     "通用学术英语II翻译.md",
     "README.md",
     "计组.md"
