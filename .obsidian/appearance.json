@@ -3,7 +3,8 @@
   "monospaceFontFamily": "Fira Code",
   "interfaceFontFamily": "Microsoft YaHei UI",
   "baseFontSize": 20,
-  "cssTheme": "Things",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "accentColor": "#8a5bf5"
 }
