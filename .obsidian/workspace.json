@@ -25,14 +25,10 @@
             "id": "10dae0628f046148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "通用学术英语II翻译.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "通用学术英语II翻译"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
