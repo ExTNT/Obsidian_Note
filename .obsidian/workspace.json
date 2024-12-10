@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c32a9c6dd3648724",
+        "id": "bbac5d37bc82206b",
         "type": "tabs",
         "children": [
           {
-            "id": "05b47c559c0ed544",
+            "id": "ddeb0fff6b574163",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -167,12 +167,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05b47c559c0ed544",
+  "active": "ddeb0fff6b574163",
   "lastOpenFiles": [
+    "马原.md",
     "通用学术英语II.md",
     "通用学术英语II翻译.md",
-    "马原.md",
-    "计组.md",
-    "README.md"
+    "README.md",
+    "计组.md"
   ]
 }
