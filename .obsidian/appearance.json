@@ -2,5 +2,8 @@
   "textFontFamily": "Fira Code Retina,Noto Sans Mono CJK SC",
   "monospaceFontFamily": "Fira Code",
   "interfaceFontFamily": "Microsoft YaHei UI",
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "nativeMenus": true
 }
