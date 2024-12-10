@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "马原.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "马原"
@@ -173,8 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63cd615d28ce0095",
+  "active": "05b47c559c0ed544",
   "lastOpenFiles": [
+    "通用学术英语II.md",
     "马原.md",
     "计组.md",
     "README.md"
