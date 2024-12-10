@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "马原.md",
+                "file": "通用学术英语II.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "马原"
+              "title": "通用学术英语II"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "马原.md"
+                "file": "通用学术英语II.md"
               },
               "icon": "lucide-list",
-              "title": "马原 的大纲"
+              "title": "通用学术英语II 的大纲"
             }
           },
           {
@@ -175,8 +175,8 @@
   },
   "active": "05b47c559c0ed544",
   "lastOpenFiles": [
-    "通用学术英语II.md",
     "马原.md",
+    "通用学术英语II.md",
     "计组.md",
     "README.md"
   ]
