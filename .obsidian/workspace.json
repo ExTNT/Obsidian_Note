@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "通用学术英语II"
             }
+          },
+          {
+            "id": "10dae0628f046148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "通用学术英语II翻译.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "通用学术英语II翻译"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "通用学术英语II.md"
+                "file": "通用学术英语II翻译.md"
               },
               "icon": "lucide-list",
-              "title": "通用学术英语II 的大纲"
+              "title": "通用学术英语II翻译 的大纲"
             }
           },
           {
@@ -173,10 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05b47c559c0ed544",
+  "active": "10dae0628f046148",
   "lastOpenFiles": [
-    "马原.md",
     "通用学术英语II.md",
+    "通用学术英语II翻译.md",
+    "马原.md",
     "计组.md",
     "README.md"
   ]
