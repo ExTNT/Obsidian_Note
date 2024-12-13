@@ -11,10 +11,14 @@
             "id": "ab3d78ebae420856",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "通用学术英语II.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "通用学术英语II"
             }
           }
         ]
@@ -91,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "通用学术英语II.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "通用学术英语II.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,7 +127,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "通用学术英语II.md"
+          },
           "icon": "lucide-list",
           "title": "大纲"
         }
@@ -152,5 +160,7 @@
     }
   },
   "active": "ab3d78ebae420856",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "通用学术英语II翻译.md"
+  ]
 }
