@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "通用学术英语II翻译.md"
+                "file": "马原.md"
               },
               "icon": "lucide-list",
-              "title": "通用学术英语II翻译 的大纲"
+              "title": "马原 的大纲"
             }
           },
           {
@@ -156,11 +156,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
