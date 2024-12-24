@@ -1,4 +1,10 @@
 {
   "livePreview": false,
+<<<<<<< HEAD
   "strictLineBreaks": true
+=======
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
+>>>>>>> origin/master
 }
