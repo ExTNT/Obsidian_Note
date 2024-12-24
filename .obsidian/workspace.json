@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "bbac5d37bc82206b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ddeb0fff6b574163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "马原.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "马原"
-            }
-          }
-        ]
-      },
-      {
         "id": "fa1b80e2bfd6fc5c",
         "type": "tabs",
         "children": [
@@ -194,7 +174,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "63cd615d28ce0095",
+  "active": "13d7ddcb8cb6c9e6",
   "lastOpenFiles": [
     "马原.md",
     "conflict-files-obsidian-git.md",
