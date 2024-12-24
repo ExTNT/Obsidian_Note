@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计组.md",
+                "file": "马原.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "计组"
+              "title": "马原"
             }
           }
         ]
@@ -176,11 +176,11 @@
   },
   "active": "13d7ddcb8cb6c9e6",
   "lastOpenFiles": [
+    "计组.md",
     "马原.md",
     "通用学术英语II.md",
     "conflict-files-obsidian-git.md",
     "通用学术英语II翻译.md",
-    "README.md",
-    "计组.md"
+    "README.md"
   ]
 }
