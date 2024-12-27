@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bac954b522a4549a",
+            "id": "03dd37bc9db78057",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "马原.md",
-                "mode": "preview",
+                "file": "劳教.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "马原"
+              "title": "劳教"
             }
           }
         ]
@@ -159,14 +159,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bac954b522a4549a",
+  "active": "03dd37bc9db78057",
   "lastOpenFiles": [
+    "马原.md",
+    "劳教.md",
     "通用学术英语II.md",
     "/马原.md",
-    "未命名.md",
     "计组.md",
     "通用学术英语II翻译.md",
-    "马原.md",
     "README.md"
   ]
 }
