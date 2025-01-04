@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "劳教.md",
-                "mode": "source",
+                "file": "cpp课设.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "劳教"
+              "title": "cpp课设"
             }
           }
         ]
@@ -161,8 +161,8 @@
   },
   "active": "03dd37bc9db78057",
   "lastOpenFiles": [
-    "马原.md",
     "劳教.md",
+    "马原.md",
     "通用学术英语II.md",
     "/马原.md",
     "计组.md",
