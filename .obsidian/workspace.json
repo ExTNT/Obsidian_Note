@@ -35,7 +35,8 @@
               "title": "cpp课设"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "f0f9d1a849e4f071",
@@ -185,14 +185,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63cd615d28ce0095",
+  "active": "d58e29a85ec986fb",
   "lastOpenFiles": [
-    "cpp课设.md",
     "马原笔记.md",
+    "cpp课设.md",
     "劳教.md",
     "计组.md",
     "通用学术英语II.md",
