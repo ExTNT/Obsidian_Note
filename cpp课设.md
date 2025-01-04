@@ -1,5 +1,15 @@
 # 目录
 
+- [寄语](#%E5%AF%84%E8%AF%AD)
+- [使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
+- [题目描述](#%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0)
+	- [2024软件学院C++课程设计](#2024%E8%BD%AF%E4%BB%B6%E5%AD%A6%E9%99%A2C++%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
+		- [课程设计目的：](#%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E7%9B%AE%E7%9A%84%EF%BC%9A)
+		- [课程设计题目：模拟即时通信系统实现](#%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E9%A2%98%E7%9B%AE%EF%BC%9A%E6%A8%A1%E6%8B%9F%E5%8D%B3%E6%97%B6%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F%E5%AE%9E%E7%8E%B0)
+- [Qt的安装与构建套件的选择](#Qt%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E6%9E%84%E5%BB%BA%E5%A5%97%E4%BB%B6%E7%9A%84%E9%80%89%E6%8B%A9)
+
+
+
 ## 寄语
 
 东方欲晓, 莫道君行早. 尽早开始课设的设计总比到最后临时抱佛脚强. 
@@ -108,11 +118,40 @@
 	3. 多线程编程
 	4. 数据库编程
 
-#### Qt的安装与构建套件的选择
+## Qt的安装与构建套件的选择
+
+> 如果一直卡在下载, 请考虑挂载清华源, 中科院源, 腾讯源等镜像; 具体步骤请自行百度 *(^-^)* 
 
 1. 打开电脑
 2. 打开浏览器
 3. 打开链接 [Qt | 软件开发全周期的各阶段工具](https://www.qt.io/zh-cn/)
 4. 点击右上角的 `Download. Try.`按钮
 5. 点击右侧中上部的 `选择开源版 > `
-6. 
+6. 向下滚动网页找到一个绿色矩形框, 标题为 `Looking for Qt Binaries?`
+7. 点击该框下的 `Download the Qt Online Installer`
+8. 点击 `Windows x64`
+9. 点击 `Qt Online Installer for Windows(x64)`
+10. 如果弹出 "可能损害您的设备, 是否保留", 请选择保留 *(Qt没有病毒, 请放心下载)*
+11. 点击`打开文件`
+12. 如果没有Qt账户, 请点击注册, 如果有请自行输入账号密码
+13. 点击 `下一步`
+14. 勾选 `我已阅读并同意使用开源Qt的基本条款和条件` 和 `我是个人用户, 我不为任何公司使用Qt`
+15. 点击 `下一步`
+16. 点击 `下一步`
+17. 勾选 `Disable sending pseudontmous usage statistics in Qt Creator`
+18. 点击 `下一步`
+19. 点击 `浏览`, 选择一个文件夹作为Qt安装目录 *(尽量不要选择C盘作为安装目录)*
+20. 点击 `下一步`
+21. 点击 `Qt`
+22. 点击 `Qt 6.5.3`前的 **横向绿色三角** *(其他版本也许, 但ExTNT使用的是此版本)*
+23. 点击 `MinGW 11.2.0 64-bit`
+24. 点击 `Build Tools` *(此按钮不在Qt目录下, 和Qt属于同一级目录)*
+25. 点击 `MinGW 11.2.0 64-bit`
+26. 点击 `OpenSSL 3.0.15 Toolkit` *(或许版本不一样, 但肯定是这个东西)*
+27. 点击 `Qt Creator` *(此按钮不在Build Tools目录下, 和Build Tools属于同一级目录)*
+28. 点击 `Debug Symbols`
+29. 点击 `Plugin Development`
+30. 点击 `下一步`
+31. 勾选 `I have read and agree to the terms contained in the lincese agreements`
+32. 点击 `下一步`
+33. 后面不用教了, 无脑下一步
