@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp课设.md",
+                "file": "通用学术英语II.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cpp课设"
+              "title": "通用学术英语II"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 321.5
   },
   "right": {
     "id": "f0f9d1a849e4f071",
@@ -189,13 +188,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d58e29a85ec986fb",
+  "active": "13d7ddcb8cb6c9e6",
   "lastOpenFiles": [
+    "通用学术英语II.md",
     "马原笔记.md",
     "cpp课设.md",
     "劳教.md",
     "计组.md",
-    "通用学术英语II.md",
     "conflict-files-obsidian-git.md",
     "通用学术英语II翻译.md",
     "README.md"
