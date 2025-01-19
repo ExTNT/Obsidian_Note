@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp课设.md",
+                "file": "计算思维演讲稿.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cpp课设"
+              "title": "计算思维演讲稿"
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "active": "03dd37bc9db78057",
   "lastOpenFiles": [
+    "cpp课设.md",
     "计算思维演讲稿.md",
     "/计算思维演讲稿.md",
     "劳教.md",
