@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63cd615d28ce0095",
+  "active": "1b52ccc684db3228",
   "lastOpenFiles": [
     "马原笔记.md",
     "计算思维演讲稿.md",
