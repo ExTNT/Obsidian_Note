@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "计算思维演讲稿"
             }
+          },
+          {
+            "id": "e502f1c7e8a53fe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "驳斥.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "驳斥"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "right": {
     "id": "f0f9d1a849e4f071",
@@ -176,10 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b52ccc684db3228",
+  "active": "e502f1c7e8a53fe1",
   "lastOpenFiles": [
-    "马原笔记.md",
     "计算思维演讲稿.md",
+    "驳斥.md",
+    "马原笔记.md",
     "通用学术英语II.md",
     "cpp课设.md",
     "劳教.md",
