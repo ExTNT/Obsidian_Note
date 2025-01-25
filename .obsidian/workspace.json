@@ -171,12 +171,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e502f1c7e8a53fe1",
+  "active": "8c94af8ef718066b",
   "lastOpenFiles": [
     "驳斥.md",
     "计算思维演讲稿.md",
