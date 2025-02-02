@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "重庆"
             }
-          },
-          {
-            "id": "4acb7c75586a5e90",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "重庆.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "重庆 的大纲"
             }
           },
           {
@@ -180,6 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -190,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4acb7c75586a5e90",
+  "active": "9cfddb0d71eeb628",
   "lastOpenFiles": [
     "马原笔记.md",
     "重庆.md",
