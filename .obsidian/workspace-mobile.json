@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算思维演讲稿.md",
+                "file": "重庆.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "计算思维演讲稿"
+              "title": "重庆"
             }
           }
         ]
@@ -161,8 +161,12 @@
   },
   "active": "03dd37bc9db78057",
   "lastOpenFiles": [
-    "cpp课设.md",
+    "/重庆.md",
     "计算思维演讲稿.md",
+    "驳斥.md",
+    "重庆.md",
+    "/驳斥.md",
+    "cpp课设.md",
     "/计算思维演讲稿.md",
     "劳教.md",
     "马原.md",
