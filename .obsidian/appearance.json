@@ -1,6 +1,6 @@
 {
-  "textFontFamily": "Fira Code Retina,更纱终端书呆黑体-简",
-  "monospaceFontFamily": "Fira Code",
+  "textFontFamily": "Fira Code Retina,Noto Sans Mono CJK SC",
+  "monospaceFontFamily": "Fira Code,Source Code Pro",
   "interfaceFontFamily": "Microsoft YaHei UI",
   "baseFontSize": 22,
   "cssTheme": "Minimal",
