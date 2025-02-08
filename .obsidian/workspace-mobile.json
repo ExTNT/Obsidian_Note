@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03dd37bc9db78057",
+            "id": "015a3603a1cf13ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "重庆"
             }
-          },
-          {
-            "id": "015a3603a1cf13ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习笔记/马原笔记.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "马原笔记"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,6 +163,7 @@
   },
   "active": "015a3603a1cf13ac",
   "lastOpenFiles": [
+    "学习笔记/马原笔记.md",
     "杂项/重庆.md",
     "未命名.canvas",
     "未命名.md",
