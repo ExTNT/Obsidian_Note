@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "重庆"
             }
-          },
-          {
-            "id": "04d1ee638f52569a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04d1ee638f52569a",
+  "active": "015a3603a1cf13ac",
   "lastOpenFiles": [
-    "杂项/重庆.md",
     "未命名.md",
+    "杂项/重庆.md",
     "杂项/待办.md",
     "未命名",
     "杂项",
