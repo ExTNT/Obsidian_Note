@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "重庆.md",
+                "file": "杂项/重庆.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "重庆"
             }
+          },
+          {
+            "id": "015a3603a1cf13ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂项/待办.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "待办"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,21 +176,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03dd37bc9db78057",
+  "active": "015a3603a1cf13ac",
   "lastOpenFiles": [
+    "杂项/重庆.md",
+    "杂项/待办.md",
+    "未命名",
+    "杂项",
+    "随笔",
+    "学习笔记",
     "/重庆.md",
-    "计算思维演讲稿.md",
+    "学习笔记/计算思维演讲稿.md",
     "驳斥.md",
-    "重庆.md",
     "/驳斥.md",
-    "cpp课设.md",
+    "学习笔记/cpp课设.md",
     "/计算思维演讲稿.md",
-    "劳教.md",
+    "学习笔记/劳教.md",
     "马原.md",
-    "通用学术英语II.md",
+    "学习笔记/通用学术英语II.md",
     "/马原.md",
-    "计组.md",
-    "通用学术英语II翻译.md",
+    "学习笔记/计组.md",
+    "学习笔记/通用学术英语II翻译.md",
     "README.md"
   ]
 }

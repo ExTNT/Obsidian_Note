@@ -1,6 +1,6 @@
 {
   "livePreview": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
