@@ -3,9 +3,9 @@
   "monospaceFontFamily": "Fira Code,Source Code Pro",
   "interfaceFontFamily": "Microsoft YaHei UI",
   "baseFontSize": 22,
-  "cssTheme": "",
+  "cssTheme": "Typora-Vue",
   "theme": "obsidian",
   "nativeMenus": true,
-  "accentColor": "#8a5bf5",
+  "accentColor": "",
   "baseFontSizeAction": true
 }
