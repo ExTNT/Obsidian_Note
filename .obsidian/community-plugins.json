@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-plugin-toc",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]
