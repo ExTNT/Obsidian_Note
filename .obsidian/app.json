@@ -4,5 +4,6 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showInlineTitle": false
 }
