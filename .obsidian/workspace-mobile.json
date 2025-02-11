@@ -174,8 +174,7 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-git:Open Git source control": false,
-      "publish:发布更改": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "015a3603a1cf13ac",
