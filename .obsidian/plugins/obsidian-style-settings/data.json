@@ -11,5 +11,15 @@
   "minimal-style@@h2-size": "1.625em",
   "minimal-style@@h1-size": "1.75em",
   "minimal-advanced@@hide-settings-desc": true,
-  "minimal-style@@h1-l": false
+  "minimal-style@@h1-l": false,
+  "minimal-style@@h2-l": false,
+  "minimal-style@@h3-l": false,
+  "minimal-style@@h4-l": false,
+  "minimal-style@@h5-l": false,
+  "minimal-style@@h6-l": false,
+  "minimal-style@@callouts-style": "callouts-outlined",
+  "minimal-style@@col-lines": true,
+  "minimal-style@@row-lines": true,
+  "minimal-style@@bold-color@@dark": "#EE4B4B",
+  "minimal-style@@italic-color@@dark": "#64B8DC"
 }
