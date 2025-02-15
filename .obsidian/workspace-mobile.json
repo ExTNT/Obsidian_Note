@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/重庆.md",
+                "file": "杂项/中汇人寿.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "重庆"
+              "title": "中汇人寿"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "60b34da182bb4bed",
   "lastOpenFiles": [
-    "学习笔记/cpp课设.md",
     "杂项/重庆.md",
+    "杂项/中汇人寿.md",
+    "学习笔记/cpp课设.md",
     "未命名.canvas",
     "学习笔记/马原笔记.md",
     "未命名.md",
